@@ -20,5 +20,10 @@ class MainActivity : AppCompatActivity() {
         println("Make just one print")
 
         println("This is a test of squash process before rebase on master")
+
+        /**
+         * In this test, I'll make two commits on feature/branch-squash-commits-before
+         * I'll make one change in master branch, and I'll rebase this with local branch feature/branch-squash-commits-before
+         * **/
     }
 }
