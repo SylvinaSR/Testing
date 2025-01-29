@@ -19,5 +19,6 @@ class MainActivity : AppCompatActivity() {
 
         println("Make just one print")
 
+        println("This is a test of squash process before rebase on master")
     }
 }
