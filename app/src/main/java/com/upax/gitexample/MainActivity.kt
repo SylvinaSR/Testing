@@ -17,14 +17,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        print("MASTER First change")
-        print("MASTER Second change")
-
-        print("MASTER Third change")
-        print("MASTER Fourth change")
-
-        print("MASTER Fifth change")
-        print("MASTER Sixth change")
+        println("Make just one print")
 
     }
 }
