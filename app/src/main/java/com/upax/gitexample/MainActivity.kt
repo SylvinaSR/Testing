@@ -34,5 +34,16 @@ class MainActivity : AppCompatActivity() {
          * I'll make two changes in master branch, and I'll rebase this with local branch feature/branch-squash-commits-after
          * **/
 
+
+        //////////////////////////////////////////////////////////
+        println("This is a test of squash process after rebase")
+
+        /**
+         * In this test, I'll make two commits on feature/branch-squash-commits-after
+         * I'll make two commit on this local branch, make the rebase with master and then the squash
+         * 1. First commit -> println println("This is a test of squash process after rebase")
+         * 2. Second commit -> comments explaining the process
+         * **/
+
     }
 }
