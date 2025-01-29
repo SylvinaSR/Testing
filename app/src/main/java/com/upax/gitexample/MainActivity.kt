@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         print("MASTER Fourth change")
 
         print("MASTER Fifth change")
-
+        print("MASTER Sixth change")
 
     }
 }
