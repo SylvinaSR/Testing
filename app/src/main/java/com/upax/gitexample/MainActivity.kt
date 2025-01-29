@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         print("MASTER First change")
+        print("MASTER Second change")
 
     }
 }
