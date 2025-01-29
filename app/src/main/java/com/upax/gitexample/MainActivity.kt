@@ -20,5 +20,8 @@ class MainActivity : AppCompatActivity() {
         print("MASTER First change")
         print("MASTER Second change")
 
+        print("MASTER Third change")
+        print("MASTER Four change")
+
     }
 }
